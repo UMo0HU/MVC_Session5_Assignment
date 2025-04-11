@@ -1,5 +1,0 @@
-D:\DEPI\MVC\session5\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
-D:\DEPI\MVC\session5\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
-D:\DEPI\MVC\session5\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
-D:\DEPI\MVC\session5\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
-D:\DEPI\MVC\session5\Services\obj\Debug\net8.0\Services.sourcelink.json
